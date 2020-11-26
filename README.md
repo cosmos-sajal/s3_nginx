@@ -15,3 +15,8 @@
 - If your s3 uploaded file was earlier directed as `https://s3-ap-south-1.amazonaws.com/demo_bucket/image1.png`, now it can be proxy passed as
 `localhost/image1.png`.
 - You can change the server as per your domain.
+
+
+#### References
+- https://stackoverflow.com/questions/44639182/nginx-proxy-amazon-s3-resources
+- https://www.digitalocean.com/community/tutorials/how-to-run-nginx-in-a-docker-container-on-ubuntu-14-04
